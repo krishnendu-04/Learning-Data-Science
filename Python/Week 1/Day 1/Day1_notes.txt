@@ -1,0 +1,4 @@
+Notes
+    1. Installation of Python and VS Code followed by various extensions like Python, Jupyter notebook.
+    2. Setting up VS Code -----> files and folders, running a program.
+    3. Displayed "Hello World"
