@@ -1,16 +1,17 @@
+
 BIG DATA
 
     * Volume of data
-        kb,mb,gb,tb,pb.eb,zb,yb
-        social media generates around 40yb data per day
+        - kb,mb,gb,tb,pb.eb,zb,yb
+        - social media generates around 40yb data per day
 
     * Velocity of data
-        speed of generation of data
+        - speed of generation of data
 
     * Variety of data
-        different types of data like audio, images, videos, pdfs, csv
+        - different types of data like audio, images, videos, pdfs, csv
 
-
+------------------------------------------------------------------------------------------
 
 DATATYPES
 
@@ -20,49 +21,55 @@ DATATYPES
     * long decimal - double - eg: 1234567.68694590035
     * string - str (varchar,char) - eg: "hello","hi"
 
+------------------------------------------------------------------------------------------
 
 VARIABLES
 
-    - used to store a value
-    -Egs
+    - used to store or assign a value
+    - Egs:
             word = "hello"
             num1 = 123
             num2 = 75.90
 
+------------------------------------------------------------------------------------------
 
 TYPES OF PROGRAMMING LANGUAGE
 
     * Strictly typed programming language
-        int num1;
-        num1 = 4
-        
-        char word;
-        word = "anu"
-        
-        eg: C, Java, C++
+        - Specify the datatype before using the variable
+        - Like
+            int num1;
+            num1 = 4
+            
+            char word;
+            word = "anu"
+        - eg: C, Java, C++
     
     * Dynamicly typed programming language
-        num1 = 10
-        name = "anu"
-        eg: Python, R, JavaScript
+        - Do not specify the datatype of the variable
+        - Like
+            num1 = 10
+            name = "anu"
+        - eg: Python, R, JavaScript
 
+------------------------------------------------------------------------------------------
 
-python topics
-    identifiers
-    i/p o/p func
-    operators
-    control flow
-        conditional statement
-        looping/iterative statement
-        jump statement
-    func
-    python collections
-        list
-        tuple
-        set
-        dictionary
-    file operation
+Python topics to cover
+    * Identifiers
+    * i/p - o/p functions
+    * Operators
+    * Control flow
+        Conditional statement
+        Looping/iterative statement
+        Jump statement
+    * Functions
+    * Python collections
+        List
+        Tuple
+        Set
+        Dictionary
+    * File operations
 
-    oops
-    functional programming
-    regular expression
+    * OOPS Concepts
+    * Functional programming
+    * Regular expression
