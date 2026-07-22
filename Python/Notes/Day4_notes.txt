@@ -1,0 +1,19 @@
+SWAPPING VARIABLES IN PYTHON
+
+    - using a third variable
+    - without using third variable
+        * num1 = num1 + num2
+          num2 = num1 - num2
+          num1 = num1 - num2
+
+        * num1, num2 = num2, num1
+
+------------------------------------------------------------------------------------------
+
+INPUT FUNCTIONS
+
+    - used to read value from the user
+    - c++ -----> cin
+    - c -----> scanf
+    - python -----> input
+

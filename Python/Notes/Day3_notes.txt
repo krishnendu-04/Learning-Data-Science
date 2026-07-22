@@ -1,0 +1,22 @@
+
+KEYWORDS
+
+    - reserved words used for a particular task
+    - Egs : if, else, while, continue, break, pass, def
+
+------------------------------------------------------------------------------------------
+
+IDENTIFIERS
+
+    - name given to programming elements
+    - programming elements that can be identified
+    - Egs : variables, functions, modules, class,...
+
+------------------------------------------------------------------------------------------
+
+OUTPUT FUNCTION
+
+    - to view or print results
+    - cout---> c++
+    - printf---> c
+    - print---> python

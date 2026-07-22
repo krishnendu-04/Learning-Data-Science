@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+college = input("Enter your college: ")
+course = input("Enter your course: ")
+place = input("Enter your place: ")
+
+print("I am",name)
+print("I am",age,"years old")
+print("I studied at",college,"college")
+print("Currently i am studying",course)
+print("My native place is",place)

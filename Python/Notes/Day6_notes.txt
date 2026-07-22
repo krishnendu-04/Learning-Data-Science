@@ -1,0 +1,14 @@
+
+CONVERSION OF DATATYPES
+    - int(),float(),complex(),str()
+
+
+OPERATORS
+    * Arithmetic Operators
+        - Addition (+)
+        - Subtraction (-)
+        - Multiplication (*)
+        - Division (/)
+        - Floor Division (//) - removes decimal values of the quotient
+        - Modulus (%) - remainder
+        - Exponent (**)

@@ -1,0 +1,21 @@
+
+JUPYTER NOTEBOOK
+
+    - ipynb file
+    - shift+enter ----> existing cell runs and new cell gets created
+    - ctrl+enter ----> existing cell runs
+
+------------------------------------------------------------------------------------------
+
+DATATYPES
+
+    - 2 TYPES
+        
+        * Numeric Datatype
+            - int ----> integer
+            - float
+            - complex number ----> 3 + 4i
+        
+        * Non Numeric Datatype
+            - str ----> string
+            - boolean ----> True/False
