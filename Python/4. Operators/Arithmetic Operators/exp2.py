@@ -1,0 +1,5 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+num3 = int(input("Enter the third number: "))
+print("Sum of the 3 numbers is", num1+num2+num3)
+print("Product of the 3 numbers is", num1*num2*num3)
