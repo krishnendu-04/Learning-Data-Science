@@ -1,0 +1,11 @@
+finding hrs,mins,secs from total sec
+finding denominations of notes from total amount
+
+COMPARISON OPERATORS
+
+        - Less than (<)
+        - Greater than (>)
+        - Less than or equal to (<=)
+        - Greater than or equal to (>=)
+        - Not Equal to (!=)
+        - Equal to (==)
