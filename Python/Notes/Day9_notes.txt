@@ -1,0 +1,32 @@
+
+ASSIGNMENT OPERATORS
+
+    - Equal to (=)
+
+------------------------------------------------------------------------------------------
+
+LOGICAL OPERATORS
+
+    - and
+    - or
+    - not
+
+------------------------------------------------------------------------------------------
+
+COMPOUND ASSIGNMENT OPERATOR
+
+    - Addition and Equal to (+=)
+    - Subtraction and Equal to (-=)
+    - Multiplication and Equal to (*=)
+    - Division and Equal to (/=)
+    - Floor Division and Equal to (//=)
+    - Modulus and Equal to (%=)
+    - Exponent and Equal to (**=)
+
+
+------------------------------------------------------------------------------------------
+
+MEMBERSHIP OPERATORS
+
+    - in
+    - not in

@@ -1,0 +1,16 @@
+num1 = 20
+print("num1 =",num1)
+num1 += 1
+print("after += 1: ",num1)
+num1 -= 1
+print("after -= 1: ",num1)
+num1 *= 3
+print("after *= 3: ",num1)
+num1 /= 2
+print("after /= 2: ",num1)
+num1 //= 4
+print("after //= 4: ",num1)
+num1 %= 5
+print("after %= 5: ",num1)
+num1 **= 3
+print("after **= 3: ",num1)
