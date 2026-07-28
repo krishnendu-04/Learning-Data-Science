@@ -1,0 +1,1 @@
+print("AI" not in "Machine Learning")
