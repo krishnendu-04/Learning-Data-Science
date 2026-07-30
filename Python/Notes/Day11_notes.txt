@@ -1,0 +1,20 @@
+CONTROL FLOW
+
+    - Statement
+        instructions / execution of a unit of code
+    - helps in decision making & looping
+    - Conditional statements helps in decision making
+    - 'while' and 'for' helps in looping or iterating statements
+    - 'break', 'continue' and 'pass' acts as jump statements
+
+------------------------------------------------------------------------------------------
+
+Syntax
+
+    * CONDITIONAL STATEMENTS
+        if (condition):
+            statement
+        elif (condition):
+            statement
+        else:
+            statement
