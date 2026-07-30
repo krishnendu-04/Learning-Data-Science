@@ -1,3 +1,3 @@
-total_bill = 2400
-friends = 8
+total_bill = float(input("Enter the total bill amount: "))
+friends = int(input("Enter the number of friends: "))
 print("Each person's share: ",total_bill/friends)

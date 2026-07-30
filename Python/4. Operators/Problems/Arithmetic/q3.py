@@ -1,3 +1,3 @@
-salary = 35000
-bonus = 5000
+salary = float(input("Enter the salary: "))
+bonus = float(input("Enter the bonus amount: "))
 print("Total Salary: ",salary+bonus)

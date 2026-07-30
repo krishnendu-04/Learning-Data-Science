@@ -1,3 +1,3 @@
-salary1 = 35000
-salary2 = 60000
+salary1 = float(input("Enter Salary 1: "))
+salary2 = float(input("Enter Salary 2: "))
 print(salary1!=salary2)
