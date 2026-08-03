@@ -7,11 +7,11 @@ per = ((m1+m2+m3+m4+m5)/500)*100
 
 if per>=75:
     print("Distinction")
-elif per>=60:
+elif 75>per>=60:
     print("First Class")
-elif per>=50:
+elif 60>per>=50:
     print("Second Class")
-elif per>=40:
+elif 50>per>=40:
     print("Pass")
 else:
     print("Fail")

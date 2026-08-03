@@ -1,1 +1,14 @@
-WHILE
+LOOP
+    - while & for loops
+    -initialization
+    -condition
+    -updation(increment/decrement)
+
+------------------------------------------------------------------------------------------
+
+WHILE LOOP
+
+    initialization
+    while(condition):
+        statement
+        updation

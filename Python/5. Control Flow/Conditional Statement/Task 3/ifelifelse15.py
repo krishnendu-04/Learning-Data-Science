@@ -1,9 +1,7 @@
 use = float(input("Enter the litres of water used: "))
-if use<5:
-    print("Rs.100")
-elif use<10:
-    print("Rs.500")
-elif use<=15:
-    print("Rs.1000")
-elif use>15:
-    print("Rs.5000")
+if use<500:
+    print("Rs.",use*2)
+elif 500<=use<1000:
+    print("Rs.",use*3)
+else:
+    print("Rs.",use*5)
