@@ -1,5 +1,5 @@
 age = int(input("Enter the age of the person: "))
-if age<5:
+if 0<=age<5:
     print("Free Ticket")
 elif 5<=age<=12:
     print("Pay Rs.100")
