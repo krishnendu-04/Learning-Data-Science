@@ -1,0 +1,8 @@
+JUMP STATEMENTS
+
+    - break
+        stops the loop or breaks the looping
+    - continue
+        skips the current iteration
+    - pass
+        do nothing
