@@ -5,4 +5,4 @@ while lower<=upper:
     if lower%2!=0:
         sum+=lower
     lower+=1
-print(sum)
+print("Sum of odd numbers in the given range: ",sum)

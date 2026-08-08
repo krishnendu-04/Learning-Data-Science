@@ -1,8 +1,8 @@
 LOOP
     - while & for loops
-    -initialization
-    -condition
-    -updation(increment/decrement)
+    - initialization
+    - condition
+    - updation(increment/decrement)
 
 ------------------------------------------------------------------------------------------
 
