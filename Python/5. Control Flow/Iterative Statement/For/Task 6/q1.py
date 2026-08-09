@@ -1,4 +1,4 @@
-n = int(input("How many numbers to be chechked? "))
+n = int(input("How many numbers to be checked? "))
 even=0
 odd=0
 for i in range(n):

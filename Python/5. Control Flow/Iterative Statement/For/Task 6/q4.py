@@ -1,7 +1,5 @@
-pos = 0
-neg = 0
-zero = 0
-n = int(input("Hoe many numbers to be checked? "))
+pos,neg,zero = 0,0,0
+n = int(input("How many numbers to be checked? "))
 for i in range(n):
     num = int(input("Enter the number: "))
     if num>0:
