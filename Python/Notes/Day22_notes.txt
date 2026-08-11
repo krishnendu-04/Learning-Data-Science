@@ -1,0 +1,9 @@
+PATTERNS
+
+    - nested loops
+    - In most of the cases
+        * i denotes number of rows
+        * j denotes number of columns
+        * if all values in a row are similar, print i
+        * if all values in a row are different, print j
+    
