@@ -1,0 +1,32 @@
+FUNCTIONS
+
+    - reusability & reduces the length of the code
+    - 3 types
+        * function without argument and no return type
+        * function with argument and no return type
+        * function with argument and return type
+    - syntax
+        
+        * function without argument and no return type
+            
+            def function_name():
+                function definition ----> task
+
+            function_name()
+
+        
+        * function with argument and no return type
+            
+            def function_name(arguments):
+                function definition ----> task
+
+            function_name(arguments)
+
+        
+        * function with argument and return type
+
+            def function_name(arguments):
+                function definition ----> task
+                return variable_name
+
+            return_variable = function_name(arguments)
