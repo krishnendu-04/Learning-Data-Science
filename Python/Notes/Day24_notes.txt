@@ -1,3 +1,4 @@
+
 FUNCTIONS
 
     - reusability & reduces the length of the code
