@@ -1,8 +1,32 @@
-def check_voting(age):
-    if age>=18:
-        print("You are eligible to vote")
+def ohms_law(V=None, I=None, R=None):
+    if V is not None and I is not None:
+        R = V/I
+    elif I is not None and R is not None:
+        V = I*R
+    elif V is not None and R is not None:
+        I = V/R
     else:
-        print("Not eligible to vote")
+        print("No enough parameters are available! ")
+        return None
+    P = V*I
+    print("Resistance: ",R)
+    print("Power: ",P)
 
-age = int(input("Enter your age: "))
-check_voting(age)
+V = input("Enter Voltage (or press Enter): ")
+I = input("Enter Current (or press Enter): ")
+R = input("Enter Resistance (or press Enter): ")
+
+if V:
+    V = float(V)
+else:
+    V = None
+if I:
+    I = float(I)
+else: 
+    I = None
+if R:
+    R = float(R)
+else:
+    R = None
+
+ohms_law(V, I, R)

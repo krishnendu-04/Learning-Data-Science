@@ -1,17 +1,28 @@
-def electricity_bill(units):
-    if units<=50:
-        return units*3.5
-    elif 51<=units<=100:
-        return units*4.5
-    elif 101<=units<=150:
-        return units*5.5
-    elif 151<=units<=200:
-        return units*7.5
-    elif 201<=units<=250:
-        return units*8.5
-    else:
-        return units*10
+def heat_index(temp_c, humidity):
+    F = temp_c * 9/5 + 32
+    HI = ( -42.379 + 2.04901523 * F 
+          + 10.14333127 * humidity
+          - 0.22475541* F *humidity 
+          - 0.00683783 * (F**2)
+          - 0.05481717 * (humidity**2)
+          + 0.00122874 * (F**2) * humidity
+          + 0.00085282 * F * (humidity**2)
+          - 0.00000199 * (F**2) * (humidity**2))
+    C = (F - 32) * 5/9
+    print("Temperature:", temp_c, "°C")
+    print("Humidity:", humidity, "%")
+    print("Heat Index:", HI, "°F")
+    print("Heat Index:", C, "°C")
 
-units = float(input("Enter the units consumed: "))
-final = electricity_bill(units)
-print("Final bill: ",final)
+    if C < 27:
+        print("Comfort Level: Cool")
+    elif 27 <= C <= 32:
+        print("Comfort Level: Comfortable")
+    elif 33 <= C <= 39:
+        print("Comfort Level: Hot")
+    else:
+        print("Comfort Level: Danger")
+    
+temp = float(input("Enter the temperature in celsius: "))
+hum = float(input("Enter the humidity: "))
+heat_index(temp, hum)
