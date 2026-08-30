@@ -22,7 +22,7 @@ LIST
     - list with same datatype is homogenous, while heterogenous consist of multiple datatype
     - lst1 = [10, 20, 30, 40]  ;   lst2 = [10, "hello", False, 89.65]
     - allows duplicates
-    - preserved - prints same data as it contains
+    - preserved - prints same data as given
     - Forward indexing - 0 to n-1
     - Backward indexing - -1 to -n
     - mutable - can change the contents
@@ -31,6 +31,7 @@ LIST
 
 LIST OPERATIONS
 
+    - sum(),len(),min(),max()
     - lst.append(x) - to add element by element to the end of the list
     - lst.extend([20,30,40,50]) - to add multiple elements to the end of the list
     - lst.insert(2,"DS") - to add the 2nd object into the position mentioned in the first object

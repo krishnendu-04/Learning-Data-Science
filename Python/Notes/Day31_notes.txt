@@ -1,0 +1,35 @@
+TUPLE
+
+    - tup1 = ()
+    - tuple with same datatype is homogenous, while heterogenous consist of multiple datatype
+    - preserved - prints same data as given
+    - duplicates are allowed
+    - immutable
+
+------------------------------------------------------------------------------------------
+
+SET
+
+    - set1 = {numbers}, empty curly brackets denote dictionary ; so use the set() function
+    - set1 = set()
+    - set with same datatype is homogenous, while heterogenous consist of multiple datatype
+    - unpreserved - prints randomly
+    - duplicates NOT ALLOWED
+    - mutable
+
+SET OPERATIONS
+
+    - set1.add(item) ----> add a single item
+    - set1.update([]) ----> add multiple items in list
+    - sum(),len(),min(),max()
+    - set1.remove(item) ----> if the item does not exists, error shows up
+    - set1.discard(item) ----> if the item does not exists, no error shows up
+    - set1.union(set2)
+    - set1.intersection(set2)
+    - set1 - set2 ---> difference
+    
+------------------------------------------------------------------------------------------
+
+LIST    -  [], heterogenous, preserved, duplicates, mutable
+TUPLE   -  (), heterogenous, preserved, duplicates, IMMUTABLE
+SET     -  set(), heterogenous, UNPRESERVED, NO DUPLICATES, mutable
