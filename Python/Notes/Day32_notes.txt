@@ -1,0 +1,14 @@
+DICTIONARY
+
+    - collection that stores multiple values under single variable name
+    - key-value pair
+    - syntax: 
+        dict={
+            key1:value1,
+            key2:value2
+        }
+    - supports all datatypes as values
+    - Duplicates keys are not allowed while duplicate values are allowed
+    - values cant be accessed using key or get()
+    - elements can be added using key or update()--->adds more than 1 pair of key-value
+    - elements can be removed using pop(key),popitem(),del,clear()
