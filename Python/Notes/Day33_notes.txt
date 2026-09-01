@@ -1,0 +1,5 @@
+collection      define      homo/hetero     duplicates                        preserved/unpreserved    mutable/immutable
+LIST              []        heterogenous     allowed                            preserved                   mutable
+TUPLE             ()        heterogenous     allowed                            preserved                   IMMUTABLE
+SET              set()      heterogenous    NOT ALLOWED                         UNPRESERVED                 mutable
+DICTIONARY        {}        heterogenous    keys-not allowed,values allowed     preserved                   mutable

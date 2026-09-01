@@ -7,8 +7,11 @@ DICTIONARY
             key1:value1,
             key2:value2
         }
-    - supports all datatypes as values
+    - supports all datatypes as values - heterogenous
     - Duplicates keys are not allowed while duplicate values are allowed
+    - preserved
+    - mutable
+    
     - values cant be accessed using key or get()
     - elements can be added using key or update()--->adds more than 1 pair of key-value
     - elements can be removed using pop(key),popitem(),del,clear()
