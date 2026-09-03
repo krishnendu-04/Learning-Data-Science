@@ -1,0 +1,10 @@
+DICTIONARY METHODS
+
+    - dict.keys()
+    - dict.values()
+    - dict.get(key)
+    - dict.update({key:value})
+    - dict.pop(key)
+    - dict.popitem()
+    - dict2 = dict1.copy()
+    - del dict[key]

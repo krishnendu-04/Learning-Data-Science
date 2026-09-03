@@ -1,0 +1,28 @@
+FILE OPERATIONS
+
+    * READ
+        - 'r'
+    
+    * WRITE
+        - 'w'
+    
+    * APPEND
+        - 'a'
+
+
+STEPS:
+
+    1. Create a variable (file object) -----> var = open(Argument1,Argument2)
+    
+    2. Reference file
+
+    3. Argument1 -----> name of reference file
+    
+    4. Argument2 -----> operation(r/w/a)
+
+
+For Windows, while reading a file from a different path
+    1. Convert forward slash with backward slash
+    2. Append one extra forward slash next to all the forward slashes
+    3. Place an 'r' next to the opening quotes for the path 
+        open(r"path",Argument2)

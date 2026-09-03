@@ -1,0 +1,6 @@
+Machine Learning
+Deep Learning
+SQL
+Excel
+Power BI
+Tableau
