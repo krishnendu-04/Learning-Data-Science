@@ -2,4 +2,4 @@ collection      define      homo/hetero     duplicates                        pr
 LIST              []        heterogenous     allowed                            preserved                   mutable
 TUPLE             ()        heterogenous     allowed                            preserved                   IMMUTABLE
 SET              set()      heterogenous    NOT ALLOWED                         UNPRESERVED                 mutable
-DICTIONARY        {}        heterogenous    keys-not allowed,values allowed     preserved                   mutable
+DICTIONARY        {}        heterogenous    keys-not allowed,values allowed     preserved              value mutable,key immutable
