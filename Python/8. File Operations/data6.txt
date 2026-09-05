@@ -1,0 +1,10 @@
+Anu,Rajesh,20,9876543210,Kochi
+Rahul,Suresh,22,9876543211,Thrissur
+Meera,Prakash,19,9876543212,Kollam
+Vimal,Ramesh,21,9876543213,Ernakulam
+Akhil,Sunil,23,9876543214,Alappuzha
+Neha,Anil,20,9876543215,Kottayam
+Arun,Mohan,24,9876543216,Kozhikode
+Sneha,Babu,22,9876543217,Palakkad
+Ammu,Joseph,19,9876543218,Kannur
+Nithin,Haridas,21,9876543219,Kasaragod
