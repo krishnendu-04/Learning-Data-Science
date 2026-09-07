@@ -1,10 +1,10 @@
 file = open("data6.txt","r")
 for i in file:
     lst1 = i.rstrip("\n").split(',')
-    if lst1[2]=="21":
+    if int(lst1[2])==int(21):
         print(i)
 
-    if lst1[2]>22:
+    if int(lst1[2])>22:
         print(lst1[:-1])
 
     if lst1[2]<"23":
