@@ -1,0 +1,11 @@
+Software Engineer:5
+Doctor:4
+Teacher:5
+Police Officer:2
+Data Analyst:2
+Farmer:2
+Nurse:3
+Accountant:3
+Businessman:2
+Electrician:1
+Data Scientist:1

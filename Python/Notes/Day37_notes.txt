@@ -1,0 +1,4 @@
+WRITING INTO A FILE
+
+    variable = open(reference_file,'w')
+    variable.write(content)

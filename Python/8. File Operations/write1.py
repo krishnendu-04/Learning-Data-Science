@@ -1,0 +1,6 @@
+f1 = open("w1.txt","w")
+f1.write("Python\n")
+f1.write("Machine Learning\n")
+f1.write("SQL\n")
+f1.write("OOPS\n")
+f1.write("CV")

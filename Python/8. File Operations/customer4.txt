@@ -1,0 +1,30 @@
+C001,Anu,24,Female,Software Engineer,Kochi
+C002,Rahul,31,Male,Doctor,Thrissur
+C003,Meera,27,Female,Teacher,Kollam
+C004,Arun,35,Male,Police Officer,Kozhikode
+C005,Sneha,29,Female,Data Analyst,Kottayam
+C006,Vimal,40,Male,Farmer,Palakkad
+C007,Akhil,26,Male,Software Engineer,Kannur
+C008,Neha,33,Female,Nurse,Alappuzha
+C009,Nithin,28,Male,Accountant,Ernakulam
+C010,Ammu,25,Female,Teacher,Pathanamthitta
+C011,Ajith,38,Male,Doctor,Kasaragod
+C012,Divya,30,Female,Doctor,Kochi
+C013,Sreejith,42,Male,Businessman,Thrissur
+C014,Athira,23,Female,Software Engineer,Kollam
+C015,Manu,36,Male,Electrician,Kozhikode
+C016,Reshma,28,Female,Data Scientist,Ernakulam
+C017,Rakesh,34,Male,Police Officer,Kottayam
+C018,Kavya,26,Female,Nurse,Kannur
+C019,Praveen,39,Male,Teacher,Palakkad
+C020,Anjali,27,Female,Accountant,Kochi
+C021,Vinod,45,Male,Farmer,Kollam
+C022,Priya,29,Female,Teacher,Thrissur
+C023,Sachin,32,Male,Software Engineer,Ernakulam
+C024,Deepa,31,Female,Data Analyst,Kannur
+C025,Arathi,28,Female,Nurse,Kozhikode
+C026,Hari,37,Male,Doctor,Kottayam
+C027,Nisha,34,Female,Software Engineer,Alappuzha
+C028,Rohith,30,Male,Teacher,Kasaragod
+C029,Lakshmi,26,Female,Accountant,Palakkad
+C030,Sanjay,41,Male,Businessman,Kochi

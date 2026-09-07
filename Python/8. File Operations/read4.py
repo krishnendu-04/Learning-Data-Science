@@ -1,4 +1,4 @@
-file = open("numbers4.txt","r")
+file = open("r4.txt","r")
 lst = []
 odd = []
 even = []

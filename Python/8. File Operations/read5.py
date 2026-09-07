@@ -1,4 +1,4 @@
-file = open("word5.txt","r")
+file = open("r5.txt","r")
 word = {}
 for i in file:
     if i.rstrip("\n") not in word:
