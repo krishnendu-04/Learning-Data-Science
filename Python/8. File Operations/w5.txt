@@ -1,0 +1,14 @@
+Thiruvananthapuram:32
+Kollam:31
+Pathanamthitta:30
+Alappuzha:31
+Kottayam:29
+Idukki:24
+Ernakulam:32
+Thrissur:33
+Palakkad:37
+Malappuram:34
+Kozhikode:33
+Wayanad:23
+Kannur:33
+Kasaragod:34
