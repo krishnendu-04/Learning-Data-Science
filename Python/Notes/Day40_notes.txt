@@ -1,0 +1,8 @@
+IMPORTING A MODULE
+
+    - SYNTAX
+        import folder.package_name.module_name
+                        OR
+        from folder.package_name import *
+                        OR
+        from folder.package_name import method_name

@@ -16,7 +16,8 @@ prof={}
 country={}
 age=[]
 last =[]
-
+r1.split("]")
+print(r1)
 print("\nRecords of all people: ")
 for i in r1:
     rec = i.rstrip().split(",")
