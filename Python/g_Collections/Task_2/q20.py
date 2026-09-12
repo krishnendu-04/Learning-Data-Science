@@ -1,0 +1,5 @@
+sub = ("Maths","Physics","Chemistry","Biology","English","Hindi")
+print(sub)
+lst = list(sub)
+lst.extend(["Computer","Malayalam"])
+print("\nUpdated subjects with electives: ",lst)

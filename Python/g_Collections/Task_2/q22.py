@@ -1,0 +1,6 @@
+laptop_specs = ("Dell", "XPS 13", 13.4, "Intel Core i7", "16GB", "512GB SSD", 1199.99)
+warranty = ("Premium Support", "2 Years", True)
+print(laptop_specs)
+print()
+print(warranty)
+print("Combined: ",laptop_specs+warranty)

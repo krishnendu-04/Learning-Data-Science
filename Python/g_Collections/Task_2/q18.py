@@ -1,0 +1,5 @@
+medal_winners = ("Farah","Manoj","Raghav","Manisha","Serah","Jovita")
+print(medal_winners)
+print("First winner: ",medal_winners[0])
+print("Last winner: ",medal_winners[-1])
+print("Middle winners: ",medal_winners[len(medal_winners)//2])
