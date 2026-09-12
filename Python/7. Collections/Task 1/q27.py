@@ -10,8 +10,8 @@ def visitor_report():
         "VIS-8124",
         "VIS-9045",
     }
-
-
-
+    print("Total unique visitors: ",len(visitor_ids))
+    for i in visitor_ids:
+        print(i)
 
 visitor_report()

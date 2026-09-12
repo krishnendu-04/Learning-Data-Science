@@ -1,0 +1,37 @@
+ERROR HANDLING
+
+
+    - Types of errors
+        * Syntax Errors (Compile time errors)
+            indentation, wrong syntax
+        * Runtime Errors
+            ZeroDivisionError, indexerror
+        * Logical Errors
+            wrong logic
+
+    - Runtime errors can be handled using error handling
+        
+        * try
+        * except
+        * finally
+
+        * raise
+        * assert
+
+        keywords
+            * block & key
+
+
+    - Try & Except
+        * try block contains codes that may or may not work.
+        * except block contain codes on how to handle any error raised by the try block.
+    - Try & Finally
+        * finally blocks executes aside of errors in try block
+
+    
+    
+    
+    - Raise
+        * manually raise an error
+    - Assert
+        * automatically raises an error
