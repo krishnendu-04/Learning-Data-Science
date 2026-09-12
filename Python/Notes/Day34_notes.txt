@@ -8,3 +8,5 @@ DICTIONARY METHODS
     - dict.popitem()
     - dict2 = dict1.copy()
     - del dict[key]
+    - to get the key for the max/min value
+        key1 = max(dict1, key = dict1.get)
