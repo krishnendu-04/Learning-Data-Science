@@ -1,5 +1,5 @@
 def branch_details():
-    branches = ("Kochi", "Thiruvananthapuram", "Calicut (Kozhikode)", "Palakkad", "Kottayam", "Thrissur")
+    branches = ("Kochi", "Thiruvananthapuram", "Kozhikode", "Palakkad", "Kottayam", "Thrissur")
     print(branches)
     if "Kochi" in branches:
         print("Kochi branch exists")
