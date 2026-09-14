@@ -21,7 +21,7 @@ OOPS
 
         - class: TV
         - object: brand and model - samsung,google,LG
-        -reference: volume,smart tv,wifi
+        - reference: volume,smart tv,wifi
 
         - class: mobile
         - object: brand and model - iphone 17, samsung s25
@@ -29,4 +29,5 @@ OOPS
 
     - class names should always start with capital letter
     - functions written inside a class are called methods
-    - arguments defined inside the methods are called instance variable
+    - arguments defined inside the methods are called instance keyword
+    - instance keyword can be used inside the class in any method
