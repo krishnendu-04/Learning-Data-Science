@@ -1,0 +1,32 @@
+OOPS
+
+    - Object oriented prgramming
+    - 3 Concepts
+        * Class
+            - group of objects, blueprint of object
+            - eg: house plan
+        
+        * Object
+            - real world entity
+            - eg: house
+        
+        * Reference
+            - operations carried out based on the object and class
+            -eg: furniture, paint, interior
+
+
+        - class: car
+        - object: brand and model - innova,alto
+        - reference: speed,color,brake,ac
+
+        - class: TV
+        - object: brand and model - samsung,google,LG
+        -reference: volume,smart tv,wifi
+
+        - class: mobile
+        - object: brand and model - iphone 17, samsung s25
+        - reference: color,ai,camera spec,processsor
+
+    - class names should always start with capital letter
+    - functions written inside a class are called methods
+    - arguments defined inside the methods are called instance variable
