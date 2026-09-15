@@ -2,3 +2,16 @@ OOPS
 
     - Constructor
         constructor helps to pass the input values directly inside the object
+
+    - Properties
+        * Encapsulation
+            - data & functions are wrapped together into a single unit
+        * Polymorphism
+            - same name, different behaviour
+            - sound dog & cat
+        * Inheritance
+            - child class inherits parent class's behaviour
+            - animal class----> dog class
+        * Abstraction
+            - hides unnecessary internal details
+            - eg car internal working
