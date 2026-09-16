@@ -6,12 +6,12 @@ class Employee:
         print(self.name,self.salary)
 
 class Manager(Employee):
-    # def __init__(self,dept):
-    #     self.dept = dept
+    def __init__(self,name,salary,dept):
+        super().__init__(name,salary)
+        self.dept = dept
     def display2(self):
-        # print(self.dept)
-        print("Department: DS")
+        print(self.dept)
 
-emp1 = Manager("Rajesh",67000)
+emp1 = Manager("Rajesh",67000,"DS")
 emp1.display1()
 emp1.display2()
