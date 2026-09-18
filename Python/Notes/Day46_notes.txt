@@ -1,0 +1,10 @@
+FUNTIONAL PROGRAMMING
+
+    - functions are used for reusability, they are traditional approach
+    - functional programming is the modern version of functions
+
+    - lambda : anonymous or no name function
+        * var = lambda arguments:operation
+    - map
+    - filter
+    - list comprehension

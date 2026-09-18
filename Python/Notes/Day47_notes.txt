@@ -1,0 +1,14 @@
+LIST COMPREHENSION
+
+    - used to optimize adding elements into a list
+    - single line opitmization of code
+
+    - Case1
+        * list of elements added into a list
+        lst = [print range]
+
+    - Case2
+        * list of elements added into a list based on condition
+
+    - Case3
+        * list of elements added into a list based on multiple condition
