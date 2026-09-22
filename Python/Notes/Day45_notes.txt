@@ -1,0 +1,22 @@
+FUNTIONAL PROGRAMMING
+
+    - functions are used for reusability, they are traditional approach
+    - functional programming is the modern version of functions
+
+    - lambda
+    - map
+    - filter
+    - list comprehension
+
+
+    LAMBDA
+        - anonymous or no name function
+        - var = lambda arguments:operation
+
+    MAP
+        - map is used to apply a function to all the elements
+        - var = list(map(function,iterable))
+
+    FILTER
+        - filter is used to filter out the elements to apply function based on some condition
+        - var = list(filter(function,iterable))

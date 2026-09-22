@@ -1,22 +1,17 @@
-FUNTIONAL PROGRAMMING
+LIST COMPREHENSION
 
-    - functions are used for reusability, they are traditional approach
-    - functional programming is the modern version of functions
+    - used to optimize adding elements into a list
+    - single line opitmization of code
 
-    - lambda
-    - map
-    - filter
-    - list comprehension
+    - Case1
+        * list of elements added into a list
+            var = [print range]
 
+    - Case2
+        * list of elements added into a list based on condition
+            var = [print range condition]
 
-    LAMBDA
-        - anonymous or no name function
-        - var = lambda arguments:operation
-
-    MAP
-        - map is used to apply a function to all the elements
-        - var = list(map(function,iterable))
-
-    FILTER
-        - filter is used to filter out the elements to apply function based on some condition
-        - var = list(filter(function,iterable))
+    - Case3
+        * list of elements added into a list based on multiple condition
+            var = [print condition1 condition2 range]
+            var = [print1 if cond1 else print2 if cond2 else print3 if cond3 else print4 range]
