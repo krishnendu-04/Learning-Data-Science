@@ -1,0 +1,24 @@
+SQL
+
+    - Database management system
+    - Used to manipulate data
+
+    -show databases;
+    - create database database_name;
+    - use database_name;
+    - show tables;
+    - drop database dataabase_name;
+
+
+    -datatypes
+     int : integer
+     bigint
+
+     float
+     double
+
+     varchar(limit)
+
+     date : yyyy-mm-dd
+
+     datetime : yyyy-mm-dd hh:mm:ss
