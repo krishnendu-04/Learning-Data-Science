@@ -7,7 +7,7 @@ SQL
     - create database database_name;
     - use database_name;
     - show tables;
-    - drop database dataabase_name;
+    - drop database database_name;
 
 
     -datatypes
