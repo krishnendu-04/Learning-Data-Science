@@ -3,22 +3,22 @@ SQL
     - Database management system
     - Used to manipulate data
 
-    -show databases;
+    - show databases;
     - create database database_name;
     - use database_name;
     - show tables;
-    - drop database database_name;
+    - drop database_name;
 
 
-    -datatypes
-     int : integer
-     bigint
+    - Datatypes
+        int : integer
+        bigint
 
-     float
-     double
+        float
+        double
 
-     varchar(limit)
+        varchar(limit)
 
-     date : yyyy-mm-dd
+        date : yyyy-mm-dd
 
-     datetime : yyyy-mm-dd hh:mm:ss
+        datetime : yyyy-mm-dd hh:mm:ss

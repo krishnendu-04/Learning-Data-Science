@@ -1,0 +1,16 @@
+- create table table_name(schema)
+        eg: create table sample1(id1 int,id2 int)
+
+- describe table_name
+
+Add new col
+- alter table table_name add new_col dtype;
+- alter table table_name add new_col dtype after col_name;
+- alter table table_name add new_col dtype first;
+
+Mulitple columns
+- alter table table_name add(new_col dtype,new_col dtype);
+- alter table table_name add new_col dtype after col_name,add new_col dtype after col_name;
+
+Change dtype,limit
+- alter table table_name modify columnname dtype;

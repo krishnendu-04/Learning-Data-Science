@@ -1,0 +1,29 @@
+
+Change column name
+- alter table table_name change column_name newcol_name dtype;
+
+Delete table
+- drop employee;
+
+Change table name
+- alter table table_name rename new_table_name;
+- alter table table_name rename to new_table_name;
+
+Delete column
+- alter table table_name drop column_name;
+
+Delete multiple columns
+- alter table table_name drop column_name1,drop column_name2;
+
+Insert values
+    - manually add
+        or
+    - export already existing tables
+
+    Manually insert values
+    - insert into table_name(colname1,colname2,...) values(val1,val2,...);
+    - insert into table_name values(val1,val2,val3,...)
+    - insert into table_name values(val1,val2,val3,val4),(val5,val6,val7,val8),(val9,val10,val11,val12);
+
+View values
+- select * from table_name;
