@@ -1,0 +1,21 @@
+Update inserted value
+    - update table_name set col_name = new_value where col_name =  value;
+
+update multiple values
+    - update table_name set colname=val,colname=val where colname=val;
+
+to update a col for all rows
+    - update table_name set colname=val;
+
+to update a common col for two or ore different rows
+    - update table_name set colname=val where colname in (val1,val1);
+
+to update column using arithmetic operators
+    - update table_name colname=colname(operator,operand) where colname=val;
+
+View filtered values
+    - select * from table_name where condition;
+
+View filtered values
+    - select * from table_name where condition1 and condition2;
+    
