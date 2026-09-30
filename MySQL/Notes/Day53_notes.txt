@@ -1,0 +1,11 @@
+filtering
+
+    - select * from table_name between startvalue and endvalue;
+    - select * from table_name where colname in (val1,val2);
+    - select * from table_name where colname like 'a%';
+    - select * from table_name where colname like '%a';
+    - select * from table_name order by colname;
+    - select * from table_name order by colname desc;
+    - select * from table_name order by colname desc limit 3;
+    - select distinct colname from table_name;
+    

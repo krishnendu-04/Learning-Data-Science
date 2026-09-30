@@ -1,0 +1,24 @@
+AGGREGATION FUNCTIONS
+
+    - sum()
+    - count()
+    - avg()
+    - max()
+    - min()
+
+    - select aggfn(colname) from table_name;
+
+
+GROUP BY
+
+    - select colname from table_name group by colname;
+    - select colname,aggfn(colname) from table_name group by colname;
+    - select colname,aggfn(colname) from table_name group by colname having condition;
+
+
+JOINS
+
+    - left join: common values from both the tables + left side table
+    - right join: common values from both the tables + right side table
+    - inner join: join only using the common col
+    - outer join: both the tables except the common values
