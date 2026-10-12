@@ -1,0 +1,11 @@
+NUMPY
+
+    - Numerical python: used for mathematical computations
+    - array operations in python
+    - lst1 = [10,12,23,53] -----> datatype of array : int
+    - lst2 = [12,56,89.08,23] -----> datatype of array : float ------> [12.00,56.00,89.08,23.00]
+    - lst3 = [12,34,"hello",34,56] ----> datatype of array : string ----> ["12","34","hello","34","56"]
+
+    Installation
+        * python3 -m pip list -----> shows the installed libraries
+        * pip install numpy -----> installs numpy
