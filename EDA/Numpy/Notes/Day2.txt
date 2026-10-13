@@ -1,0 +1,3 @@
+3D ARRAY
+
+    - (depth,row,col)
