@@ -1,0 +1,8 @@
+NUMPY FUNCTIONS
+
+    - np.arange(start,stop,increment)
+    - arr.reshape(dim)
+    - np.zeros(dim,dtype='')
+    - arr.max(axis), arr.min(axis)
+    - arr.argmax(axis), arr.argmin(axis)
+    - matrix addtition,subtraction and multiplication
