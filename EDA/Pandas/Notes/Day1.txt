@@ -1,0 +1,6 @@
+PANDAS
+
+    - used for data manupulation
+    - data can be arranged as series(1D) and data frames(2D)
+    - pd.Series()
+    - pd.DataFrame() - nested lists - rows & columns
