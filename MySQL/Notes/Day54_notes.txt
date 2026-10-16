@@ -21,4 +21,4 @@ JOINS
     - left join: common values from both the tables + left side table
     - right join: common values from both the tables + right side table
     - inner join: join only using the common col
-    - outer join: both the tables except the common values
+    - outer join: matching rows from both tables and non matching rows
