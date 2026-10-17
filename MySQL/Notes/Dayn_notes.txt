@@ -1,3 +1,8 @@
 FUNCTIONS
 
     - length()
+    - count()
+    - sum()
+    - max()
+    - min()
+    - DATEADD(column,INTERVAL n DAY)
