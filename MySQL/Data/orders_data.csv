@@ -1,0 +1,31 @@
+OrderID,CustomerID,ProductID,Quantity,UnitPrice_INR,TotalAmount_INR,OrderDate,PaymentMode,OrderStatus
+1,23,6,4,16294.06,65176.24,2025-11-15,Net Banking,Processing
+2,26,16,2,8980.76,17961.52,2026-05-26,Net Banking,Returned
+3,17,6,5,16294.06,81470.3,2026-05-06,Debit Card,Delivered
+4,30,1,3,16635.38,49906.14,2026-03-10,Cash on Delivery,Cancelled
+5,26,3,2,88414.21,176828.42,2025-12-04,Debit Card,Shipped
+6,14,23,1,46598.67,46598.67,2026-07-03,Net Banking,Returned
+7,11,15,1,3618.49,3618.49,2026-07-08,Cash on Delivery,Cancelled
+8,21,23,1,46598.67,46598.67,2026-03-22,UPI,Delivered
+9,4,5,1,1527.0,1527.0,2026-03-19,Credit Card,Cancelled
+10,24,6,5,16294.06,81470.3,2025-12-11,UPI,Cancelled
+11,6,16,2,8980.76,17961.52,2025-09-17,Credit Card,Cancelled
+12,3,28,2,5276.87,10553.74,2026-01-29,Debit Card,Shipped
+13,24,22,5,1334.07,6670.35,2026-04-18,Credit Card,Delivered
+14,18,18,4,35368.13,141472.52,2025-10-11,Net Banking,Shipped
+15,29,11,2,695.66,1391.32,2026-07-03,Cash on Delivery,Cancelled
+16,15,10,3,1625.08,4875.24,2025-12-10,Cash on Delivery,Cancelled
+17,13,11,4,695.66,2782.64,2025-12-10,UPI,Delivered
+18,6,27,1,37615.96,37615.96,2025-10-01,Net Banking,Delivered
+19,18,16,1,8980.76,8980.76,2026-09-16,Cash on Delivery,Returned
+20,20,8,5,4761.1,23805.5,2026-06-13,UPI,Returned
+21,6,20,1,289.03,289.03,2026-08-02,Debit Card,Processing
+22,12,27,3,37615.96,112847.88,2026-04-29,Cash on Delivery,Processing
+23,6,8,1,4761.1,4761.1,2025-09-28,Credit Card,Shipped
+24,12,25,4,3857.88,15431.52,2026-01-14,Debit Card,Delivered
+25,29,22,5,1334.07,6670.35,2026-03-17,Debit Card,Cancelled
+26,24,30,2,33751.83,67503.66,2025-10-28,Cash on Delivery,Delivered
+27,16,29,3,21077.75,63233.25,2026-08-30,Cash on Delivery,Cancelled
+28,30,22,2,1334.07,2668.14,2026-01-28,Debit Card,Shipped
+29,15,18,1,35368.13,35368.13,2025-11-11,Net Banking,Cancelled
+30,2,2,3,1209.17,3627.51,2026-07-12,UPI,Processing
